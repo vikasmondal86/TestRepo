@@ -2,3 +2,7 @@ PRINT('Eat BURGER')
 PRINT('Eat PIZZA')
 PRINT('Eat SAMOSA')
 PRINT('Eat ICECREAM')
+
+bln = input("Feeling Thirsty")
+if bln == "YES"
+	PRINT("DRINK WATER")
