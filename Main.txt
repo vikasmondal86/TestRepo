@@ -1,1 +1,2 @@
 PRINT('Eat BURGER')
+PRINT('Eat PIZZA')
