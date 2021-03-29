@@ -1,2 +1,2 @@
-PRINT('Eat BURGER')
+PRINT('Eat SAMOSA')
 PRINT('Eat PIZZA')
