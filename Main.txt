@@ -6,3 +6,4 @@ PRINT('Eat ICECREAM')
 bln = input("Feeling Thirsty")
 if bln == "YES"
 	PRINT("DRINK WATER")
+	PRINT("DRINK SODA")
